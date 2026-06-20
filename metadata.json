@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Live Quiz Application",
+  "description": "An interactive, real-time live hosting and participant quiz application powered by Gemini, featuring instant AI question generation, circular timers, AI performance analysis with logistic regression predictions, and real-time leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
